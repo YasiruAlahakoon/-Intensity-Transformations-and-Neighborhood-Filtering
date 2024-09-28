@@ -42,9 +42,6 @@ This repository implements key image processing techniques such as intensity tra
 - Segment foreground and blur the background using GrabCut.
 
 
-## GitHub Profile
-
-[GitHub Profile](https://github.com/YasiruAlahakoon)
 
 ---
 

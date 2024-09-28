@@ -1,4 +1,3 @@
-# -Intensity-Transformations-and-Neighborhood-Filtering
 # EN3160 - Assignment 1: Intensity Transformations and Neighborhood Filtering
 
 **Course**: Image Processing and Machine Vision  
